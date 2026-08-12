@@ -164,7 +164,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   -->
   <tr>
     <td>
-      <h3>[Project Title 1: e.g., Data Analytics Dashboard]</h3>
+      <h3>[Project Title 1: Data Analytics Dashboard]</h3>
       <p>
       Interactive dashboard for exploring datasets and generating insights.
       </p>
@@ -172,7 +172,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       Pandas • NumPy • Matplotlib • Streamlit
     </td>
     <td>
-      <h3>[Project Title 2: e.g., Sentiment Analysis]</h3>
+      <h3>[Project Title 2: Sentiment Analysis]</h3>
       <p>
       Natural Language Processing application for sentiment classification.
       </p>
