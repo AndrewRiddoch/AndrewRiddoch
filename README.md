@@ -86,8 +86,9 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </p>
 <h2>Retrieval-Augmented Generation</h2>
 <p>
-  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pinecone-0057FF?style=for-the-badge"/>
+---  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+---  <img src="https://img.shields.io/badge/Pinecone-0057FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Chroma-7B3FE4?style=for-the-badge"/>
 </p>
 <h2>Cloud & Deployment</h2>
@@ -139,7 +140,8 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </div>
 <h1>Featured Projects</h1>
 <table>
-  <tr>
+  <!--
+  <tr>  
     <td width="50%">
       <h3>[Project Title 1: e.g., AI Resume Analyzer]</h3>
       <p>
@@ -157,9 +159,10 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       Python • LangChain • OpenAI • FAISS • Chroma
     </td>
   </tr>
+  -->
   <tr>
     <td>
-      <h3>[Project Title 3: e.g., Data Analytics Dashboard]</h3>
+      <h3>[Project Title 1: e.g., Data Analytics Dashboard]</h3>
       <p>
       Interactive dashboard for exploring datasets and generating insights.
       </p>
@@ -167,7 +170,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       Pandas • NumPy • Matplotlib • Streamlit
     </td>
     <td>
-      <h3>[Project Title 4: e.g., Sentiment Analysis]</h3>
+      <h3>[Project Title 2: e.g., Sentiment Analysis]</h3>
       <p>
       Natural Language Processing application for sentiment classification.
       </p>
@@ -181,11 +184,12 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   <tr>
     <td>
       <ul>
-        <li>[Topic 1, e.g., LangGraph]</li>
-        <li>[Topic 2, e.g., AI Agents]</li>
-        <li>[Topic 3, e.g., Multi-Agent Systems]</li>
+        <li>[Topic 1, Python]</li>
+        <li>[Topic 2, Langchain]</li>
+        <li>[Topic 3, Vibe coding app]</li>
       </ul>
       </td>
+    <!--
       <td>
       <ul>
         <li>[Topic 4, e.g., Hugging Face Transformers]</li>
@@ -200,6 +204,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
         <li>[Topic 9, e.g., Vector Search Optimization]</li>
       </ul>
     </td>
+    -->
   </tr>
 </table>
 <h1>GitHub Analytics</h1>
