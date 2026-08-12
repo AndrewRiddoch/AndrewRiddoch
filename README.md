@@ -64,7 +64,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   </tr>
 </table>
 <h1> AI Technology Stack</h1>
-<h2> Lanauges </h2>
+<h2> Languages </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
