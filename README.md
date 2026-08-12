@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<h1>Hi, I'm Your Name Here!</h1>
+<h1>Hi, I'm Andy Riddoch!</h1>
 
 <h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
 <p>
@@ -29,10 +29,10 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="YourLinkedInProfileHere">
+<a href="https://www.linkedin.com/in/andrew-riddoch-45a7851bb/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YourEmailHere">
+<a href="mailto:andrid000@outlook.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="YourGitHubProfileHere">
@@ -43,7 +43,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>[Your Primary Role, e.g., AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
+    <p>I am an aspiring <strong>[AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Artificial Intelligence</li>
@@ -54,7 +54,6 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
       <li>Computer Vision</li>
       <li>Data Science</li>
       <li>Cloud AI</li>
-      <li>MLOps</li>
     </ul>
     <p>I enjoy turning data into intelligent applications while continuously exploring the latest AI technologies.</p>
     </td>
