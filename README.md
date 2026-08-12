@@ -43,7 +43,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>[AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
+    <p>I am an aspiring <strong>AI Engineer</strong> with a passion for building intelligent software that solves real-world problems.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Artificial Intelligence</li>
@@ -86,8 +86,10 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </p>
 <h2>Retrieval-Augmented Generation</h2>
 <p>
----  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
----  <img src="https://img.shields.io/badge/Pinecone-0057FF?style=for-the-badge"/>
+  <!--
+  <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-0057FF?style=for-the-badge"/>
+  -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Chroma-7B3FE4?style=for-the-badge"/>
 </p>
@@ -209,15 +211,15 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </table>
 <h1>GitHub Analytics</h1>
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsernameHere&theme=github-dark&hide_border=true"/>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewRiddoch&theme=github-dark&hide_border=true"/>
 </div>
 <h1> Activity Graph </h1>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewRiddoch&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true"/>
 </div>
 <h1> Visitor Count </h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsernameHere&style=for-the-badge&color=2ea043"/>
+  <img src="https://komarev.com/ghpvc/?username=AndrewRiddoch&style=for-the-badge&color=2ea043"/>
 </div>
 <div align="center">
   <strong>"Artificial Intelligence is not about replacing people. It's about amplifying human potential through intelligent systems."</strong>
