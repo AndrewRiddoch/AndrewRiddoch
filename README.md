@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<h1>Hi, I'm Andy Riddoch!</h1>
+<h1>Hi, I'm Andy Riddoch </h1>
 
 <h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
 <p>
