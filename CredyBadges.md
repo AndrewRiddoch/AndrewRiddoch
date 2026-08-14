@@ -1,6 +1,6 @@
 <!-- 
-UsernameHere = Credy URL username
-Img address = img url link from the website
+UsernameHere = andrew-riddoch
+Img address = [img url link from the website](https://www.credly.com/badges/f9d1b06d-4b95-4f17-861f-7ef134071e30/public_url)
 -->
 
 <table>
