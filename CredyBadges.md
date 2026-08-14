@@ -7,10 +7,7 @@ Img address = img url link from the website
   <tr>
     <td align="center">
         <h2 align="center">AWS Certified Cloud Practitioner</h2>
-      <!--
-       <a href="https://www.credly.com/users/AndrewRiddoch/badges#credly">
-      -->
-      <a href="https://www.credly.com/badges/f9d1b06d-4b95-4f17-861f-7ef134071e30/public_url">
+       <a href="https://www.credly.com/users/andrew-riddoch/badges#credly">
         <img 
             src="https://www.credly.com/badges/f9d1b06d-4b95-4f17-861f-7ef134071e30/public_url" 
             alt="AWS Certified Cloud Practitioner" 
