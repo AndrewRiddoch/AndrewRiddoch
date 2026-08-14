@@ -63,6 +63,9 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     </td>
   </tr>
 </table>
+<!--START_SECTION:Badges-->
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f9d1b06d-4b95-4f17-861f-7ef134071e30" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--END_SECTION:badges-->
 <h1> AI Technology Stack</h1>
 <h2> Languages </h2>
 <p>
