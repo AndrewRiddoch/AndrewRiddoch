@@ -63,9 +63,11 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     </td>
   </tr>
 </table>
+
 <!--START_SECTION:Badges-->
-![Badge](aws-certified-cloud-practitioner.png "AWS Cloud Practitioner Badge")
+
 <!--END_SECTION:badges-->
+
 <h1> AI Technology Stack</h1>
 <h2> Languages </h2>
 <p>
