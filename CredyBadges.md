@@ -1,6 +1,7 @@
-
+<!--
 UsernameHere = andrew-riddoch
 Img address = https://www.credly.com/badges/f9d1b06d-4b95-4f17-861f-7ef134071e30/public_url
+-->
 
 <table>
   <tr>
