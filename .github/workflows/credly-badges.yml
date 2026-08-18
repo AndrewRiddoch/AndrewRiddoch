@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Update
-        uses: AndrewRiddoch/credybadges@main
+        uses: AndrewRiddoch/AndrewRiddoch/credybadges@main
         with:
           CREDLY_USERNAME: andrew-riddoch
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
