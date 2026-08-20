@@ -11,7 +11,7 @@ BADGE_WIDTH = 120
 
 
 def fetch_badges(username: str) -> list[dict]:
-    url = f"[credly.com](https://www.credly.com/users/{username}/badges.json)"
+    url = f"https://www.credly.com/users/{username}/badges.json"
     params = {"page": 1, "page_size": 100, "sort": "-issued_at_date"}
     all_badges = []
 
@@ -40,7 +40,8 @@ def build_markdown(badges: list[dict]) -> str:
         name = template.get("name", "Credly badge")
         image_url = template.get("image_url", "")
         badge_id = b.get("id")
-        link = f"[credly.com](https://www.credly.com/badges/{badge_id})" if badge_id else "[credly.com](https://www.credly.com)"
+        url = f"https://www.credly.com/users/{username}/badges.json"
+        link = f"https://www.credly.com/badges/{badge_id}" if badge_id else f"https://www.credly.com"
         items.append(f'<a href="{link}"><img src="{image_url}" alt="{name}" title="{name}" width="{BADGE_WIDTH}"></a>')
 
     return " ".join(items)
