@@ -10,7 +10,7 @@ END_MARKER = "<!-- CREDLY-BADGES:END -->"
 BADGE_WIDTH = 120
 username = os.getenv('CREDLY_USERNAME')
 
-def fetch_badges(username: str) -> list[dict]:
+def fetch_badges(username: str):
     url = f"https://www.credly.com/users/{username}/badges.json"
     params = {"page": 1, "page_size": 100, "sort": "-issued_at_date"}
     all_badges = []
