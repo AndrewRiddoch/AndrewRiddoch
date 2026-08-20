@@ -8,7 +8,7 @@ README_PATH = "README.md"
 START_MARKER = "<!-- CREDLY-BADGES:START -->"
 END_MARKER = "<!-- CREDLY-BADGES:END -->"
 BADGE_WIDTH = 120
-
+username = os.getenv('CREDLY_USERNAME')
 
 def fetch_badges(username: str) -> list[dict]:
     url = f"https://www.credly.com/users/{username}/badges.json"
