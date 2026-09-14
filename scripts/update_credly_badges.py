@@ -4,7 +4,7 @@ import sys
 import requests
 
 CREDLY_USERNAME = os.environ["CREDLY_USERNAME"]
-README_PATH = "README.md"
+README_PATH = "../README.md"
 START_MARKER = "<!-- CREDLY_BADGES_START -->"
 END_MARKER = "<!-- CREDLY_BADGES_END -->"
 
