@@ -64,11 +64,10 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   </tr>
 </table>
 
-## Certifications 
-<!-- CREDLY-BADGES:START -->
-<!-- CREDLY-BADGES:END -->
+## Certifications
 
-<!--END_SECTION:badges-->
+<!-- CREDLY_BADGES_START -->
+<!-- CREDLY_BADGES_END -->
 
 <h1> AI Technology Stack</h1>
 <h2> Languages </h2>
