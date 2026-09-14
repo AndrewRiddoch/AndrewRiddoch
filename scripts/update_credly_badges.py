@@ -2,7 +2,7 @@ import os
 import re
 import sys
 import requests
-from path_lib import Path
+from pathlib import Path
 
 CREDLY_USERNAME = os.environ["CREDLY_USERNAME"]
 README_PATH = "README.md"
