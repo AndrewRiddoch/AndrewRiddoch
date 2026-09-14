@@ -67,6 +67,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 ## Certifications
 
 <!-- CREDLY_BADGES_START -->
+<a href="https://www.credly.com/badges/f9d1b06d-4b95-4f17-861f-7ef134071e30"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" width="120"></a>
 <!-- CREDLY_BADGES_END -->
 
 <h1> AI Technology Stack</h1>
