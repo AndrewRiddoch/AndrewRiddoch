@@ -63,7 +63,7 @@ def update_readme(new_block: str) -> bool:
 
     if not pattern.search(content):
         print(exists)
-        print(f"Markers not found in {current_path} README.md", file=sys.stderr)
+        print(f"Markers still not found in {current_path} README.md", file=sys.stderr)
         sys.exit(1)
 
     updated = pattern.sub(replacement, content)
